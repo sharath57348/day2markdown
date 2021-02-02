@@ -26,7 +26,7 @@ URL: https://www.google.com/search?q=markdown+guide.org&oq=&aqs=chrome.1.69i59i4
 1. cse
 2. ece
 3. mech
-    1.mech a
-    2.mech b 
+    1. mech a
+    2. mech b 
 4. civil
 5. eee
