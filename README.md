@@ -54,3 +54,6 @@ print("hi apssdc")
 ```
 fun()
 ````
+`
+print("hi")
+```
