@@ -6,11 +6,17 @@ markdown syntax
 ##### heading 5
 # bold and italic formats
 **cse**
+
 __cse__
+
 *cse*
+
 _cse_
+
 _**cse**_
+
 __*cse*__
+
 https://github.com/sharath57348/day2markdown/edit/main/README.md
 
 Our systems have detected unusual traffic from your computer network. This page checks to see if it's really you sending the requests, and not a robot. Why did this happen?
