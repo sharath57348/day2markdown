@@ -47,8 +47,10 @@ URL: https://www.google.com/search?q=markdown+guide.org&oq=&aqs=chrome.1.69i59i4
     * civil b
 - eee
 ## coding
-
 ```
+def fun():
 print("hi apssdc")
 ````
-
+```
+fun()
+````
